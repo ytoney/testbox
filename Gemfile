@@ -38,6 +38,8 @@ gem 'spring',        group: :development
 # Use debugger
 # gem 'debugger', group: [:development, :test]
 
+gem 'bootstrap-sass', '~> 3.1.1'
+gem 'font-awesome-rails'
 gem 'angularjs-rails'
 gem 'ngmin-rails'
 gem 'angular-rails-templates'
